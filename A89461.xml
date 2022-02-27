@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right honourable the Lord Kimbolton his speech in Parliament, Ian. 3. 1641: concerning the articles of high treason exhibited against him, Mr. Pym, Mr. Hambden, Mr. Hollis, Sir Arthur Haslerigge knight, and Mr. Strowde. By the Kings Majestie.</title>
+            <title>Speech in Parliament, Jan. 3. 1641.</title>
+            <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89461</idno>
+            <idno type="STC">Wing M395</idno>
+            <idno type="STC">Thomason E199_51</idno>
+            <idno type="STC">ESTC R13153</idno>
+            <idno type="EEBO-CITATION">99859423</idno>
+            <idno type="PROQUEST">99859423</idno>
+            <idno type="VID">111503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right honourable the Lord Kimbolton his speech in Parliament, Ian. 3. 1641: concerning the articles of high treason exhibited against him, Mr. Pym, Mr. Hambden, Mr. Hollis, Sir Arthur Haslerigge knight, and Mr. Strowde. By the Kings Majestie.</title>
+                  <title>Speech in Parliament, Jan. 3. 1641.</title>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably a forgery.--Cf. Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111503:1"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:111503:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>THE RIGHT HONOVRABLE THE LORD KIMBOLTON HIS SPEECH In Parliament, <hi>Ian.</hi> 3. 1641:</p>
+            <p>Concerning the Articles of High Treaſon exhibited againſt him, Mr. <hi>Pym,</hi> Mr. <hi>Hambden,</hi> Mr. <hi>Hollis,</hi> Sir <hi>Arthur Haſlerigge</hi> Knight, and Mr. <hi>Strowde.</hi>
+            </p>
+            <p>By the Kings Majeſtie.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111503:2"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="1" facs="tcp:111503:2"/>
+            <!-- PDF PAGE 103 -->
+            <head>THE RIGHT HONORABLE the Lord <hi>KIMBOLTON</hi> HIS SPEECH In Parliament, 3. <hi>Jan.</hi> 1641. con<g ref="char:EOLhyphen"/>cerning the Articles of High Treaſon exhibited againſt his Lordſhip, Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Haſlerigge,</hi> Mr. <hi>Pym,</hi> Mr. <hi>Hamb<g ref="char:EOLhyphen"/>den,</hi> Mr. <hi>Hollis,</hi> and Mr. <hi>Strowde</hi> by his Majeſtie.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath already been ſo much ſpo<g ref="char:EOLhyphen"/>ken by the other Gentlemen con<g ref="char:EOLhyphen"/>cerning this Accu<g ref="char:EOLhyphen"/>ſation of High Treaſon, even ſuf<g ref="char:EOLhyphen"/>ficient as J conceive to cleere us all that are impeached, that J know not what to ſay more touching the ſame,
+<pb n="2" facs="tcp:111503:3"/>
+               <!-- PDF PAGE 104 -->onely under favour give me leave to ſpeake what J conceive of the cauſe of the procuring of this accuſation of the authors that procured it, and of the effects which I perceive will follow vpon the ſame.</p>
+            <p>Mr. Speaker it is not long ſince this Hono<g ref="char:EOLhyphen"/>rable Houſe accuſed of high Treaſon the Twelve Biſhops for their illegall and Trayterous at<g ref="char:EOLhyphen"/>tempt in their Petition and Proteſtation againſt the King and Parliament, theſe Gentlemen with my ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe and others having the perſecution of that buſineſſe and other charges of great Crimes againſt them committed to our truſt, did vnani<g ref="char:EOLhyphen"/>mouſly with one conſeat follow the ſame, bring<g ref="char:EOLhyphen"/>ing to a Period our debates and diſputes concer<g ref="char:EOLhyphen"/>ning their crimes what wee conceive they were guilty of vpon their ſeverall charges, and what guilty for framing and preferring their Petition and Proteſtation to his Majeſty, that they were guilty of miſpriſion of Treaſon vpon their for<g ref="char:EOLhyphen"/>mer accuſations, and guilty of high Treaſon vp<g ref="char:EOLhyphen"/>on this their laſt deſignes, &amp; theſe our Votes and concluſions grounded and warranted not onely by the Common lawes of this land, but by divers preſidents and Acts of Parliament we preſent to the whole houſe for conſideration and confirma<g ref="char:EOLhyphen"/>tion of the ſame, by a generall Vote with whom we againe agreed by our publique Votes, and thereupon they were impeached and committed, this J conceive provoked their malice againſt us, and was the principall cauſe of this their plot, in
+<pb n="3" facs="tcp:111503:3"/>
+               <!-- PDF PAGE 104 -->drawing an Accuſation againſt us for the ſame crime of Treaſon, thereby to make us ſeeme as vile as themſelves, and to take away our Votes at their tryall. And thus J have joyned together both the cauſe and the Authors of this Accuſa<g ref="char:EOLhyphen"/>tion. The effects J conceive will be dangerous and cauſe great troubles in theſe Reſpects.</p>
+            <p n="1">
+               <label>I.</label> Jn turning the Current of the Parliament proceedings againſt them upon us, by which de<g ref="char:EOLhyphen"/>viſe they may have further time to put in pra<g ref="char:EOLhyphen"/>ctice their plots, and bring to perfection their purpoſes againſt the Parliament.</p>
+            <p n="2">
+               <label>II.</label> That being buſily imployed concerning this buſineſſe in their diſputes about breach of Pri<g ref="char:EOLhyphen"/>viledge of Parliament, in illegall accuſing the Members thereof, and drawing a Declaration to his Majeſty concerning the ſame in appeaſing him by ſhewing the fincerity and integrity of the Parliament towards his Majeſty and other things and pertinent, thereunto. This High Court may lay aſide theſe proceedings, and avert their purpoſes touching the Jriſh affaires, where<g ref="char:EOLhyphen"/>by the Rebellion there may increaſe, and forraine ayd brought to them to the vtter looſing of that Kingdome.</p>
+            <pb n="4" facs="tcp:111503:4"/>
+            <!-- PDF PAGE 105 -->
+            <p n="3">
+               <label>III.</label> Many feares and troubles will ariſe in the Citizens of <hi>LONDON</hi> concerning this Accu<g ref="char:EOLhyphen"/>ſation of deſperate and helliſh Stratagems in a<g ref="char:EOLhyphen"/>gitation, as well againſt them as the Parliament by diſſolate and diſaffected perſons to the ſafety and ſecurity thereof, cauſing them to ſtand con<g ref="char:EOLhyphen"/>tinually upon their guard of the Trayned Bands which will be to them a great charge and Mo<g ref="char:EOLhyphen"/>leſtation.</p>
+            <p n="4">
+               <label>IV.</label> It will incourage ill affected Cavaliers and Commanders about the Court, to attempt any miſchiefe againſt both Houſes of Parliament or particular Members thereof, vpon the leaſt op<g ref="char:EOLhyphen"/>portunity that ſhall be offered them, thinking thereby they ſhall doe the King good ſervice, which otherwiſe perchance they dare not adven<g ref="char:EOLhyphen"/>ture to put in practiſe.</p>
+            <p n="5">
+               <label>V.</label> It will provoke and ſtirre vp a diſlike of theſe deſignes in the hearts of all his Majeſties ſubjects, and diſaffection to his Sacred perſon, cauſe great vproares and tumults of the Citi<g ref="char:EOLhyphen"/>zens; yea, and J feare a generall inſurrection
+<pb n="5" facs="tcp:111503:4"/>
+               <!-- PDF PAGE 105 -->in this Kingdome, if not ſuddainely preven<g ref="char:EOLhyphen"/>ted, which God forbid.</p>
+            <p>And thus Mr. Speaker, having nothing more to ſay concerning theſe Articles, I humbly crave of this honorable houſe, that I may have expodition in my tryall upon the ſame, and that all things done by this wiſe Councell may tend to the honour and glory of Almighty God, the peace and ſafety of his Sa<g ref="char:EOLhyphen"/>cred Majeſty and all his Kingdomes,</p>
+            <trailer>FINIS.</trailer>
+            <pb n="4" facs="tcp:111503:5"/>
+            <!-- PDF PAGE 106 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:111503:5"/>
+            <!-- PDF PAGE 106 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
